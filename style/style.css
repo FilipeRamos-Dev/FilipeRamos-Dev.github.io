@@ -127,9 +127,15 @@ a:hover{
     border-radius: 999px;
 }
 
+.rodape{
+    margin-top: 40px;
+    padding: 25px;
+    text-align: center;
+}
 
-
-
+.rodape-anddress{
+    font-style: normal;
+}
 
 
 
